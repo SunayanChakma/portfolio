@@ -9,5 +9,10 @@ some more texts added here.
 
 another txt added
 
+<<<<<<< HEAD
 This text is for test purpose.
 
+=======
+
+working on another branch
+>>>>>>> another-branch
